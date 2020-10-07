@@ -1,0 +1,14 @@
+﻿  Bubble.cpp
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(38,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(38,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(44,22): warning C4018: '<': signed/unsigned mismatch
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(127,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\BubblesSFML\Bubbles\src\Bubble.cpp(171,30): warning C4018: '<': signed/unsigned mismatch
+  GameState.cpp
+  Game.cpp
+C:\dev\BubblesSFML\Bubbles\src\Game.cpp(11,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  StateMachine.cpp
+  Generating Code...
+  Bubbles.vcxproj -> C:\dev\BubblesSFML\bin\Win32\Debug\Bubbles.exe
